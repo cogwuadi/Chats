@@ -1,0 +1,37 @@
+.move{
+  background-color: blue;
+  justify-content: center;
+  text-align: center;
+  /* width: 100vw; */
+  color: red;
+  font-size: 25px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.fill{
+  margin-left: 30px;
+  font-size: 20px;
+  width: 7vw;
+  border: 10px solid;
+  color: blue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.right{
+  height: 80vh;
+  border: 5px solid;
+  color: yellow;
+}
+
+.chat{
+  margin-top: -52px;
+  margin-left: 40px;
+  font-size: 17opx;
+  /* width: 50vw; */
+}
+
+h1{
+  font-size: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: red;
+}
